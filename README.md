@@ -1,4 +1,4 @@
-# Spot-The-Fake-
+# RakshaVedhae-
 This project, "Spot The Fake - Advanced Threat Detection Dashboard," is a comprehensive security application designed to analyze URLs and Android APK files for phishing, malware, and other cyber threats. 
 
 ---
@@ -17,8 +17,8 @@ This project, "Spot The Fake - Advanced Threat Detection Dashboard," is a compre
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/spot-the-fake.git
-cd spot-the-fake/backend
+git clone https://github.com/yourusername/RakshaVedhae.git
+cd RakshaVedhae/backend
 
 # Create & activate virtual environment
 python -m venv venv
